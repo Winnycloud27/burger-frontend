@@ -5,6 +5,7 @@
 - [Overview](#overview)
 - [Features](./Features.md)
 - [Usage](#usage)
+- [Developers Guide](./Developers-Guide.md)
 
 ## Overview
 The Burger Builder Website allows customers to create and order customized burgers. This solution enhances order accuracy, customer engagement, and operational efficiency for the vendor.

@@ -7,3 +7,9 @@
 
 ## Overview
 The Burger Builder Website allows customers to create and order customized burgers. This solution enhances order accuracy, customer engagement, and operational efficiency for the vendor.
+
+## Usage
+- Click "Sign-up or Login" to start.
+- Choose ingredients and follow the on-screen limit prompts.
+- Add to cart and proceed to checkout.
+- Review the order summary before confirming.

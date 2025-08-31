@@ -1,0 +1,11 @@
+<div 
+  class="spinner-wrapper" 
+  [ngClass]="[size, mode]" 
+  role="status" 
+  aria-live="polite"
+  [attr.aria-label]="ariaLabel">
+  
+  <div class="spinner"></div>
+  
+  <span class="visually-hidden">{{ ariaLabel }}</span>
+</div>

@@ -3,22 +3,22 @@
     {
       "id": 1,
       "name": "Sesame Seed Bun",
-      "topImage": "/assets/buns/sesame-top.png",
-      "bottomImage": "/assets/buns/sesame-bottom.png",
+      "topImage": "assets/buns/sesame-top.png",
+      "bottomImage": "assets/buns/sesame-bottom.png",
       "price": 1000
     },
     {
       "id": 2,
       "name": "Brioche Bun",
-      "topImage": "/assets/buns/brioche-top.png",
-      "bottomImage": "/assets/buns/brioche-bottom.png",
+      "topImage": "assets/buns/brioche-top.png",
+      "bottomImage": "assets/buns/brioche-bottom.png",
       "price": 1500
     },
     {
       "id": 3,
       "name": "Whole Wheat Bun",
-      "topImage": "/assets/buns/whole-wheat-top.png",
-      "bottomImage": "/assets/buns/whole-wheat-bottom.png",
+      "topImage": "assets/buns/whole-wheat-top.png",
+      "bottomImage": "assets/buns/whole-wheat-bottom.png",
       "price": 1300
     }
   ],
@@ -72,19 +72,19 @@
     {
       "id": 301,
       "name": "Cheddar",
-      "image": "/assets/cheeses/cheddar-cheese.png",
+      "image": "assets/cheeses/cheddar-cheese.png",
       "price": 1500
     },
     {
       "id": 302,
       "name": "Swiss",
-      "image": "/assets/cheeses/swiss-cheese.png",
+      "image": "assets/cheeses/swiss-cheese.png",
       "price": 1600
     },
     {
       "id": 303,
       "name": "American",
-      "image": "/assets/cheeses/american-cheese.png",
+      "image": "assets/cheeses/american-cheese.png",
       "price": 1300
     }
   ],

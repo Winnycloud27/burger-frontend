@@ -1,0 +1,117 @@
+{
+  "buns": [
+    {
+      "id": 1,
+      "name": "Sesame Seed Bun",
+      "topImage": "assets/buns/sesame-top.png",
+      "bottomImage": "assets/buns/sesame-bottom.png",
+      "price": 1000
+    },
+    {
+      "id": 2,
+      "name": "Brioche Bun",
+      "topImage": "assets/buns/brioche-top.png",
+      "bottomImage": "assets/buns/brioche-bottom.png",
+      "price": 1500
+    },
+    {
+      "id": 3,
+      "name": "Whole Wheat Bun",
+      "topImage": "assets/buns/whole-wheat-top.png",
+      "bottomImage": "assets/buns/whole-wheat-bottom.png",
+      "price": 1300
+    }
+  ],
+  "meats": [
+    {
+      "id": 101,
+      "name": "Beef Patty",
+      "image": "assets/meats/beef.png",
+      "price": 2000
+    },
+    {
+      "id": 102,
+      "name": "Grilled Chicken",
+      "image": "assets/meats/chicken.png",
+      "price": 2000
+    },
+    {
+      "id": 103,
+      "name": "Smoked Bacon",
+      "image": "assets/meats/bacon.png",
+      "price": 2500
+    }
+  ],
+  "vegetables": [
+    {
+      "id": 201,
+      "name": "Lettuce",
+      "image": "assets/vegetables/lettuce.png",
+      "price": 700
+    },
+    {
+      "id": 202,
+      "name": "Tomato",
+      "image": "assets/vegetables/tomato.png",
+      "price": 300
+    },
+    {
+      "id": 203,
+      "name": "Red Onion",
+      "image": "assets/vegetables/onion.png",
+      "price": 200
+    },
+    {
+      "id": 204,
+      "name": "Pickles",
+      "image": "assets/vegetables/pickles.png",
+      "price": 400
+    }
+  ],
+  "cheeses": [
+    {
+      "id": 301,
+      "name": "Cheddar",
+      "image": "assets/cheeses/cheddar-cheese.png",
+      "price": 1500
+    },
+    {
+      "id": 302,
+      "name": "Swiss",
+      "image": "assets/cheeses/swiss-cheese.png",
+      "price": 1600
+    },
+    {
+      "id": 303,
+      "name": "American",
+      "image": "assets/cheeses/american-cheese.png",
+      "price": 1300
+    }
+  ],
+  "sauces": [
+    {
+      "id": 401,
+      "name": "Ketchup",
+      "image": "assets/sauces/ketchup.png",
+      "price": 400
+    },
+    {
+      "id": 402,
+      "name": "Mayo",
+      "image": "assets/sauces/mayo.png",
+      "price": 400
+    },
+    {
+      "id": 403,
+      "name": "Mustard",
+      "image": "assets/sauces/mustard.png",
+      "price": 400
+    },
+    {
+      "id": 404,
+      "name": "BBQ Sauce",
+      "image": "assets/sauces/bbq-sauce.png",
+      "price": 500
+    }
+  ]
+}

@@ -12,7 +12,7 @@ Simulates API responses for the Burger Builder App’s ingredient data. Used for
 - **cheeses**: Array of cheese ingredients.
 - **sauces**: Array of sauce ingredients.
 
-Each ingredient has the following properties except for the buns ingredient:
+Most ingredients have the following properties (buns have a different structure explained below):
 
 - `id`: Unique identifier (integer).
 - `name`: Ingredient name (string).
